@@ -6,6 +6,8 @@ conforme pré-definição no arquivo index.css. Além disso, utilizou-se. també
 **REQUISITOS E INSTRUÇÕES PARA RODAR O PROJETO**
 - Ter instalado, em sua máquina, o Node.js e o npm (ou yarn);
 
+- Clone o projeto de: https://github.com/daniel-gapinski/projeto-betalent
+
 - Instalar as dependências: Dentro da pasta do projeto, execute npm install (ou yarn install);
 
 - Dados de alimentação do projeto:

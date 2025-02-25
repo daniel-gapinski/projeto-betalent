@@ -1,0 +1,55 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-bluePrimary: var(--blue-primary);
+  --color-blue10: var(--blue10);
+  --color-black-default: var(--blackDefault);
+  --color-gray20: var(--gray20);
+  --color-gray10: var(--gray10);
+  --color-gray05: var(--gray05);
+  --color-gray00: var(--gray00);
+  --radius-roundedTheme: 8px;
+  --breakpoint-xp: 368px;
+  --breakpoint-pp:321px;
+}
+
+body {
+  background-color: var(--gray00);
+  font-family: "Roboto";
+}
+
+:root {
+  --blue-primary: #0500FF;
+  --blue10: #EDEFFB;
+  --blackDefault: #1C1C1C;
+  --gray20: #9E9E9E;
+  --gray10: #DFDFDF;
+  --gray05: #F5F5F5;
+  --gray00: #F0F0F0;
+}
+
+h1{
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Helvetica;
+}
+
+h2 {
+  font-size: 16px;
+  font-family: Helvetica;
+  font-weight: 500;
+  line-height: 19.54px;
+}
+
+h3 {
+  font-size: 16px;
+  font-family: Helvetica;
+  font-weight: 400;
+  line-height: 19.09px;
+}
+
+input {
+  font-family: Helvetica;
+  line-height: 19.09px;
+  font-size: 16px;
+}

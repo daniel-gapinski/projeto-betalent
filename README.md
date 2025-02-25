@@ -1,4 +1,4 @@
-Olá, seja bem-vindp(a) ao meu projeto!
+Olá, seja bem-vindo(a) ao meu projeto!
 
 Este projeto foi desenvolvido com React e Typescript usando Vite. Seu CSS foi criado com base na biblioteca do Tailwind, e conta com códigos personalizados de cores, fontes e breakpoints
 conforme pré-definição no arquivo index.css. Além disso, utilizou-se. também, a biblioteca do React Icons, para modernizar e evitar quebras visual da aplicação.
